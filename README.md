@@ -5,9 +5,12 @@ of projects.
 
 DEMO: 
 
-git clone https://github.com/anouar99pac/am-ngxModal/
+git clone https://github.com/anouar99pac/am-ngxModal.git
+
 cd am-ngxModal
+
 yarn install
+
 yarn start
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.1.0.
