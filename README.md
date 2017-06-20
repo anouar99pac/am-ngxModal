@@ -1,5 +1,15 @@
 # NgxModal
 
+This project is load module called NgxModalModule to provide a generic Modal to use in different pages 
+of projects.
+
+DEMO: 
+
+git clone https://github.com/anouar99pac/am-ngxModal/
+cd am-ngxModal
+yarn install
+yarn start
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.1.0.
 
 ## Development server
