@@ -1,9 +1,8 @@
 # NgxModal
 
-This project is load module called NgxModalModule to provide a generic Modal to use in different pages 
-of projects.
+The NgxModalModule project consists of a module for Angular 4. It can be used to generate dynamic pop-up windows.
 
-DEMO: 
+DEMO:
 
 git clone https://github.com/anouar99pac/am-ngxModal.git
 
@@ -13,7 +12,7 @@ yarn install
 
 yarn start
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.1.0.
+This project was built using Angular CLI version 1.1.0.
 
 ## Development server
 
